@@ -1,8 +1,6 @@
 # Three Balls
 
-![Three Balls Project]()
-
-## Description
+![Three Balls Project](./chrome-capture-2024-2-14.gif)
 
 ## Technologies:
 - HTML
@@ -10,4 +8,4 @@
 
 ## Demo
 
-[Three Balls]()
+[Three Balls](https://meryemsenturk.github.io/Three-Balls/)
